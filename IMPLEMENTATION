@@ -1,14 +1,16 @@
 1. Rendering
 - The map is divided into different sections; only one section is visible at a time.
-- Sections are generated based on three tables: mapTypes, mapTextures, and mapNpcs.
+- Sections are generated based on three tables, as a metaphor for social classes (the lower, middle and upper class): mapTypes, mapTextures, and mapNpcs.
 (Every new ID should be explained in Types.txt, Textures.txt, or Npcs.txt.)
 - Sensors leading to new sections: TBD.
 
 2. Playable character
 TBD.
+Possibly Vladimir Lenin, Friedrich Engels or John Github.
 
 3. Enemies
 TBD.
+Possibly capitalists/the bourgeoisie 
 
 4. NPCs
 - Dialogs are stored in a JSON file.
